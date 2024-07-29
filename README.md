@@ -1,8 +1,8 @@
-A application where users can go in and create a weekly chore scheduler for their assigned household members.
-Users are ablew to:
+An application where users can go in and create a weekly chore scheduler for their assigned household members.
+Users are able to:
 - Create a household
-- Assign Memebers
+- Assign Members
 - Create Chores
 - Assign Chores
 - Print Schedule
-The program runs through the terminal and gives feedback to any errors the user may make through the process of interacting with the program while also giving instructions as to what is needed from the user in order for the program to run correctly.
+The program runs through the terminal and gives feedback on any errors the user may make while interacting with the program while also giving instructions as to what is needed from the user for the program to run correctly.
