@@ -1,5 +1,5 @@
 An application where users can go in and create a weekly chore scheduler for their assigned household members.
-Users are able to:
+Users can:
 - Create a household
 - Assign Members
 - Create Chores
